@@ -141,21 +141,6 @@ Clean, responsive Kanban board web app for task management.
 
 ---
 
-## 💼 Experience
-
-| Company | Role | Focus |
-|---|---|---|
-| 🛒 **Flipkart** | Infosec Trainee · *Oct 2024 – Apr 2025* | Attack surface monitoring, penetration testing, threat modeling on Thanos (50K+ daily requests) |
-| 🌐 **Accenture** | Associate Software Engineer Intern · *Feb 2024 – Jun 2024* | Spring Boot REST APIs, PostgreSQL schema design, DB performance tuning, JUnit coverage |
-
----
-
-## 🎓 Education
-
-**B.Tech in Computer Science and Engineering** — Lovely Professional University *(2021 – 2024)* · **CGPA: 7.91 / 10**
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
